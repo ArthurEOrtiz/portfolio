@@ -1,3 +1,7 @@
+html {
+  font-family:'Courier New', Courier, monospace;
+}
+
 .banner-photo {
   margin: auto;
   width: 50%;
@@ -12,6 +16,10 @@
   padding-bottom: 1%;
 }
 
+.email {
+  margin-left: 1%;
+}
+
 h1 {
   text-align: center;
 }
@@ -20,6 +28,17 @@ h2 {
   text-align: center;
 }
 
-p {
-  font-family:'Courier New', Courier, monospace;
+.busphoto {
+width: 30%;
+
+}
+.vintage {
+  width: 30%;
+}
+
+a:link, a:visited,  a:hover, a:active {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+
 }
