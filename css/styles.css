@@ -1,0 +1,18 @@
+.banner-photo {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+  padding-top: 3%;
+}
+
+.banner-title {
+  background-color: black;
+  color: white;
+  padding-bottom: 1%;
+}
+
+h1 {
+  margin-left: 2%;
+  text-align: center;
+}
