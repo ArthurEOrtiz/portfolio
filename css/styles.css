@@ -35,14 +35,20 @@ h2 {
 }
 .dog
 {
-  width: 30%;
+  width: 90%;
 }
-.busphoto {
-width: 30%;
 
+.busphoto {
+  width: 90%;
 }
 .vintage {
+  width: 90%;
+  
+}
+
+.column {
   width: 30%;
+  float: left;
 }
 
 a:link, a:visited,  a:hover, a:active {
