@@ -26,6 +26,13 @@ span {
   color: rgb(0, 255, 0);
 }
 
+.projects {
+  background-color: gray;
+}
+.aboutme {
+  background-color: gray;
+}
+
 h1 {
   text-align: center;
 }
