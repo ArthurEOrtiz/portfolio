@@ -27,10 +27,15 @@ span {
 }
 
 .projects {
-  background-color: gray;
+  background-color: #332E2E;
+  color: white;
+  padding: 1px;
 }
+
 .aboutme {
   background-color: gray;
+  padding: 1px;
+  color: white;
 }
 
 h1 {
