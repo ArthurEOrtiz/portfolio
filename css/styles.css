@@ -20,6 +20,12 @@ html {
   margin-left: 1%;
 }
 
+span {
+  background-color: black;
+  font-weight: bold;
+  color: rgb(0, 255, 0);
+}
+
 h1 {
   text-align: center;
 }
@@ -27,7 +33,10 @@ h1 {
 h2 {
   text-align: center;
 }
-
+.dog
+{
+  width: 30%;
+}
 .busphoto {
 width: 30%;
 
