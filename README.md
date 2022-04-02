@@ -5,6 +5,8 @@ I am the only contributor.
 
 [Click here for the main branch of the repository] (https://github.com/ArthurEOrtiz/portfolio)
 
+[Click here to link to GH-Pages](https://arthureortiz.github.io/portfolio/)
+
 **Technologies Used**
 * HTML
 * CSS
