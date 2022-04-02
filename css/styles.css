@@ -63,6 +63,11 @@ h2 {
   float: left;
 }
 
+.offclock {
+  border-style: dotted;
+  border-radius: 10px;
+}
+
 a:link, a:visited,  a:hover, a:active {
   color: white;
   text-decoration: none;
